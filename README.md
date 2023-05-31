@@ -6,7 +6,8 @@
 [[Project Page](https://photoswap.github.io/)] [[Paper](https://arxiv.org/abs/2305.18286)]
 ![Teaser figure](figures/teaser-arxiv.png)
 
-![Teaser figure](figures/architecture)
+## Model Architecture
+![Teaser figure](figures/architecture.png)
 ## Citation
 ```
 @misc{gu2023photoswap,
