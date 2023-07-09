@@ -26,10 +26,10 @@ Be sure to install the package in the corresponding requirements.txt
 ### Download PHOTPSWAP models
 
 We provide a few checkpoints that already contain the new concept. All models here are based on StableDiffusion-2.
-| Type       | Concept        | Download                                                                                                       |
-|------------|----------------|----------------------------------------------------------------------------------------------------------------|
+| Type       | Concept        | Download                                                                                           |
+|------------|----------------|----------------------------------------------------------------------------------------------------|
 | Human      | Taylor Swift   | [Google Drive](https://drive.google.com/file/d/102wDjvxIyc8zL7_8IFR7roLG2A3MKYtd/view?usp=sharing) |
-| Human      | Justin Bieber  | [Google Drive]() |
+| Human      | Justin Bieber  | [Google Drive](https://drive.google.com/file/d/1SbuWoInZ7m7nKE5KD3C6I1zw3XlCNVpG/view?usp=sharing) |
 
 ## Attention Swap
 To do Subject Swapping with Photoswap, a single GPU with 16 GB memory is required.
