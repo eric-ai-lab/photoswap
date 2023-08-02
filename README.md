@@ -44,9 +44,6 @@ Following the below steps to do subject swapping:
 Different learnt concepts could have different swap steps for successful subject swapping. Tuning the swapping step and the text prompt for better performance. A concept model that has its weights tuned will have a degration in its ability on general concept generation. To do Subject Swapping with Photoswap, a single GPU with 16 GB memory is required.
 
 
-## Acknowledgements
-Thank [Prompt-to-Prompt](https://github.com/google/prompt-to-prompt), [Huggingface](https://huggingface.co/docs/diffusers/index), and [MasaCtrl](https://ljzycmd.github.io/projects/MasaCtrl/) for their great work and open-sourced code.
-
 ## Citation
 ```
 @misc{gu2023photoswap,
