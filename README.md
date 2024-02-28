@@ -27,13 +27,6 @@ Be sure to install the package in the corresponding requirements.txt
  - More source images leads to a better learnt concept and therefore a better subject swap result. For example, more human face images during training leads to a better artistic figure transfer.
  - For DreamBooth, finetuning the encoder leads to a better performance, especially for human face. That would also requires more memory.
 
-### Download PHOTPSWAP models
-
-We provide a few checkpoints that already contain the new concept. All models here are based on StableDiffusion-2.
-| Type       | Concept        | Download                                                                                           |
-|------------|----------------|----------------------------------------------------------------------------------------------------|
-| Human      | Taylor Swift   | [Google Drive](https://drive.google.com/file/d/102wDjvxIyc8zL7_8IFR7roLG2A3MKYtd/view?usp=sharing) |
-| Human      | Justin Bieber  | [Google Drive](https://drive.google.com/file/d/1SbuWoInZ7m7nKE5KD3C6I1zw3XlCNVpG/view?usp=sharing) |
 
 ## Attention Swap
 
