@@ -27,6 +27,9 @@ Be sure to install the package in the corresponding requirements.txt
  - More source images leads to a better learnt concept and therefore a better subject swap result. For example, more human face images during training leads to a better artistic figure transfer.
  - For DreamBooth, finetuning the encoder leads to a better performance, especially for human face. That would also requires more memory.
 
+### Download PHOTPSWAP models
+
+Please contact jgu110@ucsc.edu for checkpoints.
 
 ## Attention Swap
 
